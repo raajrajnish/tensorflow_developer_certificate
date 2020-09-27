@@ -1,7 +1,7 @@
 ## What is Microservices?
 
 <img width="794" alt="microservices-logical" src="https://user-images.githubusercontent.com/11850213/94359370-71564000-00c4-11eb-8f32-85bcbf600e2c.png">
-	Image Source : https://user-images.githubusercontent.com/11850213/94359370-71564000-00c4-11eb-8f32-85bcbf600e2c.png
+	Image Source : https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
 
 
 ### What is microservice Architecture?
