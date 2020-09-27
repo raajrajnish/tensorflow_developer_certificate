@@ -48,6 +48,8 @@
 		-if required each service should have its own DB
 		-storage can also be file system
 
+<img width="794" alt="microservices-logical" src="https://user-images.githubusercontent.com/11850213/94359718-7b793e00-00c6-11eb-8ed5-85f97de3a918.png">
+
 3.API Gateway
 	-entry point for all API endpoints
 	-Orchestrates API requets
